@@ -14,7 +14,8 @@ gwt-unitCache/
 # more caches and things from deploy #
 war/WEB-INF/deploy/
 war/WEB-INF/classes/
-war/skeleton-viewer
+war/skeleton_viewer/
+war/image-rgb
 
 #compilation logs
 .gwt/
